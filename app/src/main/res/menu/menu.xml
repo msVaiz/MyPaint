@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/color"
+        android:title="@string/menu_item_color"
+        android:icon="@drawable/ic_color_lens_24dp"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/line_width"
+        android:title="@string/menu_line_wight"
+        android:icon="@drawable/ic_brush_24dp"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/delete_drawing"
+        android:title="@string/menu_item_delete"
+        android:icon="@drawable/ic_delete_24dp"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/save"
+        android:title="@string/menu_line_save"
+        android:icon="@drawable/ic_save_24dp"
+        app:showAsAction="ifRoom"/>
+</menu>

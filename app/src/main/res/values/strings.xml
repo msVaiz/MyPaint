@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Paint</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="button_erase">Erase Image</string>
+    <string name="button_set_color">Set Color</string>
+    <string name="button_set_line_width">Set Line Width</string>
+
+    <string name="label_alpha">Opacity</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+
+    <string name="menu_item_color">Color</string>
+    <string name="menu_item_delete">Erase Drawing</string>
+    <string name="menu_line_wight">Line Width</string>
+    <string name="menu_line_save">Save</string>
+
+    <string name="message_erase">Erase the drawing?</string>
+    <string name="message_error_saving">There was an error saving the image</string>
+    <string name="message_saved">Saved successfully</string>
+
+    <string name="title_color_dialog">Choose Color</string>
+    <string name="title_line_width_dialog">Choose Line Width</string>
+
+    <string name="permission_explanation">To save an image, the app requires permission to write to external storage</string>
+    <string name="line_image_view_description">This displays the line thickness</string>
+</resources>
